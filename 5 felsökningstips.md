@@ -16,3 +16,6 @@ Det finns jättemånga människor på jorden, och oftast har många haft samma p
 
 ## Förklara problemet för en anka/kompis
 Ett jättebra tips för att lösa problem är att försöka förklara problemet så detaljerat som möjligt för en kompis. Oftast lyckas man lösa problemet själv mitt i en mening! Du har kanske inte alltid någon kompis i närheten, och de kanske själva sitter med något problem, så då kan du prata med en plastanka istället. Skriva chattmeddelanden (som du inte behöver skicka iväg) funkar också.
+
+## Ett extra tips
+Ta en paus, och kom tillbaka till problemet. Ibland behöver hjärnan lite utrymme och då kan en paus vara bra, men det är viktigt att du kommer tillbaka till koden efter pausen så att pausen inte bara blir en ursäkt att göra annat istället för då blir du aldrig klar.
